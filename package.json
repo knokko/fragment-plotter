@@ -1,0 +1,11 @@
+{
+  "name": "fragment-plotter",
+  "version": "1.0.0",
+  "description": "Simple way to plot functions taking x and y on a canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "knokko",
+  "license": "MIT"
+}
