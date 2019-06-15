@@ -1,7 +1,7 @@
 {
   "name": "fragment-plotter",
-  "version": "1.0.0",
-  "description": "Simple way to plot functions taking x and y on a canvas",
+  "version": "1.1.6",
+  "description": "Simple way to plot functions on a canvas using webgl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
